@@ -1,0 +1,6 @@
+framework module TreeStructures {
+  umbrella header "TreeStructures.h"
+
+  export *
+  module * { export * }
+}
